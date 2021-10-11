@@ -1,2 +1,0 @@
-# minibox
-Mini-Painting Box

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shmo.github.io/minibox/sitemap.xml

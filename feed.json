@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Mini Painting Box",
+    "description": "",
+    "home_page_url": "https://shmo.github.io/minibox",
+    "feed_url": "https://shmo.github.io/minibox/feed.json",
+    "user_comment": "",
+    "icon": "https://shmo.github.io/minibox/media/website/minipaintbox.jpg",
+    "author": {
+        "name": "shmo"
+    },
+    "items": [
+        {
+            "id": "https://shmo.github.io/minibox/mini-painting-box.html",
+            "url": "https://shmo.github.io/minibox/mini-painting-box.html",
+            "title": "Mini-Painting Box",
+            "summary": "This is for mini-painting box. ",
+            "content_html": "<p>This is for mini-painting box.</p>\n",
+            "author": {
+                "name": "shmo"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-11T13:39:23+01:00",
+            "date_modified": "2021-10-11T13:41:41+01:00"
+        }
+    ]
+}
