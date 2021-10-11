@@ -3,21 +3,45 @@
     <title>My Mini Painting Box</title>
     <link href="https://shmo.github.io/minibox/feed.xml" rel="self" />
     <link href="https://shmo.github.io/minibox" />
-    <updated>2021-10-11T14:49:47+01:00</updated>
+    <updated>2021-10-11T15:12:13+01:00</updated>
     <author>
-        <name>shmo</name>
+        <name>Pimkli</name>
     </author>
     <id>https://shmo.github.io/minibox</id>
 
     <entry>
+        <title>Inks/High-Flow Acrylics</title>
+        <author>
+            <name>Pimkli</name>
+        </author>
+        <link href="https://shmo.github.io/minibox/high-flow-acrylics.html"/>
+        <id>https://shmo.github.io/minibox/high-flow-acrylics.html</id>
+
+        <updated>2021-10-11T15:12:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                    What's in the Box? Golden High Flow Acrylic Paint What are Inks? A Hidden Gem: Golden High Flow Acrylics
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>What's in the Box?</h2>
+<p><a href="https://www.goldenpaints.com/products/colors/high-flow" title="Golden High Flow Acrylic Paint" target="_blank" rel="noopener">Golden High Flow Acrylic Paint</a></p>
+<h2>General Info on Inks or High Flow Acrylics</h2>
+<p><a href="https://stason.org/TULARC/crafts/miniatures-painting/4-D-What-are-inks-should-I-use-them-and-if-so-how-Mini.html" title="What are Inks?" target="_blank" rel="noopener">What are Inks?</a></p>
+<p><a href="http://tyler.provick.ca/blog/hidden-gem-golden-high-flow-acrylics/" title="A Hidden Gem: Golden High Flow Acrylics" target="_blank" rel="noopener">A Hidden Gem: Golden High Flow Acrylics</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Glazes</title>
         <author>
-            <name>shmo</name>
+            <name>Pimkli</name>
         </author>
         <link href="https://shmo.github.io/minibox/glazing.html"/>
         <id>https://shmo.github.io/minibox/glazing.html</id>
 
-        <updated>2021-10-11T14:49:47+01:00</updated>
+        <updated>2021-10-11T14:54:09+01:00</updated>
             <summary>
                 <![CDATA[
                     What's in the Box? Liquitex Glazing Medium A glaze is a paint medium that is translucent, which when applied, will allow underlying color to show through. Additionally, a glaze will act as a “filter” that changes the color and value appearance of the surface. In other words,&hellip;
@@ -41,7 +65,7 @@
     <entry>
         <title>Primers</title>
         <author>
-            <name>shmo</name>
+            <name>Pimkli</name>
         </author>
         <link href="https://shmo.github.io/minibox/primers.html"/>
         <id>https://shmo.github.io/minibox/primers.html</id>
@@ -71,20 +95,20 @@
     <entry>
         <title>Mini-Painting Box</title>
         <author>
-            <name>shmo</name>
+            <name>Pimkli</name>
         </author>
         <link href="https://shmo.github.io/minibox/mini-painting-box.html"/>
         <id>https://shmo.github.io/minibox/mini-painting-box.html</id>
 
-        <updated>2021-10-11T13:59:10+01:00</updated>
+        <updated>2021-10-11T14:52:42+01:00</updated>
             <summary>
                 <![CDATA[
-                    This site is primarily for the owners of the posh handmade mini painting box gift. The site contains links to resources relating to items in the box, or related mini painting topics. 
+                    This site is primarily for the owners of the posh handmade mini painting box gift set. The site contains links to resources relating to items in the box, or related mini painting topics. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This site is primarily for the owners of the posh handmade mini painting box gift.</p>
+                <p>This site is primarily for the owners of the posh handmade mini painting box gift set.</p>
 <p>The site contains links to resources relating to items in the box, or related mini painting topics.</p>
 
             ]]>

@@ -7,9 +7,23 @@
     "user_comment": "",
     "icon": "https://shmo.github.io/minibox/media/website/minipaintbox.jpg",
     "author": {
-        "name": "shmo"
+        "name": "Pimkli"
     },
     "items": [
+        {
+            "id": "https://shmo.github.io/minibox/high-flow-acrylics.html",
+            "url": "https://shmo.github.io/minibox/high-flow-acrylics.html",
+            "title": "Inks/High-Flow Acrylics",
+            "summary": "What's in the Box? Golden High Flow Acrylic Paint What are Inks? A Hidden Gem: Golden High Flow Acrylics",
+            "content_html": "<h2>What's in the Box?</h2>\n<p><a href=\"https://www.goldenpaints.com/products/colors/high-flow\" title=\"Golden High Flow Acrylic Paint\" target=\"_blank\" rel=\"noopener\">Golden High Flow Acrylic Paint</a></p>\n<h2>General Info on Inks or High Flow Acrylics</h2>\n<p><a href=\"https://stason.org/TULARC/crafts/miniatures-painting/4-D-What-are-inks-should-I-use-them-and-if-so-how-Mini.html\" title=\"What are Inks?\" target=\"_blank\" rel=\"noopener\">What are Inks?</a></p>\n<p><a href=\"http://tyler.provick.ca/blog/hidden-gem-golden-high-flow-acrylics/\" title=\"A Hidden Gem: Golden High Flow Acrylics\" target=\"_blank\" rel=\"noopener\">A Hidden Gem: Golden High Flow Acrylics</a></p>",
+            "author": {
+                "name": "Pimkli"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-11T15:10:44+01:00",
+            "date_modified": "2021-10-11T15:12:13+01:00"
+        },
         {
             "id": "https://shmo.github.io/minibox/glazing.html",
             "url": "https://shmo.github.io/minibox/glazing.html",
@@ -17,12 +31,12 @@
             "summary": "What's in the Box? Liquitex Glazing Medium A glaze is a paint medium that is translucent, which when applied, will allow underlying color to show through. Additionally, a glaze will act as a “filter” that changes the color and value appearance of the surface. In other words,&hellip;",
             "content_html": "<h2>What's in the Box?</h2>\n<p><a href=\"https://www.liquitex.com/row/products/professional/gessoes-mediums-varnishes/glazing-medium/\" title=\"Liquitex Glazing Medium\" target=\"_blank\" rel=\"noopener\">Liquitex Glazing Medium</a></p>\n<h2>General Info on Glazing Mediums</h2>\n<p><strong>A glaze is a paint medium that is <em>translucent</em>, which when applied, will allow underlying color to show through. </strong>Additionally, a glaze will act as a “filter” that changes the color and value appearance of the surface. In other words, glazes can change color saturation, hue, and tone.</p>\n<p><a href=\"http://www.leagueofpainters.com/?p=1143\" title=\"Tutorial: Glazing \" target=\"_blank\" rel=\"noopener\">Tutorial: Glazing</a></p>\n<p><a href=\"https://tangibleday.com/how-to-glaze-miniatures-tutorial-for-blending-color/\" title=\"How to Glaze Miniatures \" target=\"_blank\" rel=\"noopener\">How to Glaze Miniatures </a></p>\n<h2>Videos</h2>\n<p><a href=\"https://www.youtube.com/watch?v=dBYW3T5bs_s\" title=\"Glazing explained in 5 minutes\" target=\"_blank\" rel=\"noopener\">Glazing explained in 5 minutes</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=4ePwy9qED28\" title=\"How to Glaze\" target=\"_blank\" rel=\"noopener\">How to Glaze</a></p>\n<p><a href=\"https://youtu.be/A13JfFJxtIg\" title=\"How to Glaze Miniatures: A Beginner's Guide to Color Glazing\" target=\"_blank\" rel=\"noopener\">https://youtu.be/A13JfFJxtIg</a></p>",
             "author": {
-                "name": "shmo"
+                "name": "Pimkli"
             },
             "tags": [
             ],
             "date_published": "2021-10-11T14:31:25+01:00",
-            "date_modified": "2021-10-11T14:49:47+01:00"
+            "date_modified": "2021-10-11T14:54:09+01:00"
         },
         {
             "id": "https://shmo.github.io/minibox/primers.html",
@@ -31,7 +45,7 @@
             "summary": " Whats in the Box? Black Primer from AK interactive Grey Primer from AK interactive These are both good primers but there's lots of different sorts including spray can, paint on etc. Overview of Primers &amp; \"Best\" Primers The Complete Miniature Painter's Guide to Brush&hellip;",
             "content_html": "<hr>\n<h2>Whats in the Box?</h2>\n<p><a href=\"https://ak-interactive.com/product/black-primer-100ml/\" title=\"Black Primer from AK interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Black Primer from AK interactive</a></p>\n<p><a href=\"https://ak-interactive.com/product/grey-primer-100ml/\" target=\"_blank\" rel=\"noopener noreferrer\">Grey Primer from AK interactive</a></p>\n<p>These are both good primers but there's lots of different sorts including spray can, paint on etc. </p>\n<h2>General Info on primers</h2>\n<p><a href=\"https://www.hayksaakian.com/best-primer-for-miniatures/\" target=\"_blank\" rel=\"noopener noreferrer\">Overview of Primers &amp; \"Best\" Primers</a></p>\n<h2>Videos</h2>\n<p><a href=\"https://www.youtube.com/watch?v=qfYH77-0mZw\" title=\"The Complete Miniature Painter's Guide to Brush On Primer\" target=\"_blank\" rel=\"noopener\">The Complete Miniature Painter's Guide to Brush On Primer</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=k1srek0pono\" title=\"Priming your Miniature\" target=\"_blank\" rel=\"noopener\">Priming your Miniature</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=16Qx1LFF8io\" title=\"How To Use Brush On Primer To Get A Smooth Finish : Brush Basics\" target=\"_blank\" rel=\"noopener\">How To Use Brush On Primer To Get A Smooth Finish : Brush Basics</a></p>",
             "author": {
-                "name": "shmo"
+                "name": "Pimkli"
             },
             "tags": [
             ],
@@ -42,15 +56,15 @@
             "id": "https://shmo.github.io/minibox/mini-painting-box.html",
             "url": "https://shmo.github.io/minibox/mini-painting-box.html",
             "title": "Mini-Painting Box",
-            "summary": "This site is primarily for the owners of the posh handmade mini painting box gift. The site contains links to resources relating to items in the box, or related mini painting topics. ",
-            "content_html": "<p>This site is primarily for the owners of the posh handmade mini painting box gift.</p>\n<p>The site contains links to resources relating to items in the box, or related mini painting topics.</p>\n",
+            "summary": "This site is primarily for the owners of the posh handmade mini painting box gift set. The site contains links to resources relating to items in the box, or related mini painting topics. ",
+            "content_html": "<p>This site is primarily for the owners of the posh handmade mini painting box gift set.</p>\n<p>The site contains links to resources relating to items in the box, or related mini painting topics.</p>\n",
             "author": {
-                "name": "shmo"
+                "name": "Pimkli"
             },
             "tags": [
             ],
             "date_published": "2021-10-11T13:39:23+01:00",
-            "date_modified": "2021-10-11T13:59:10+01:00"
+            "date_modified": "2021-10-11T14:52:42+01:00"
         }
     ]
 }
