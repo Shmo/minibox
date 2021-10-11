@@ -3,12 +3,41 @@
     <title>My Mini Painting Box</title>
     <link href="https://shmo.github.io/minibox/feed.xml" rel="self" />
     <link href="https://shmo.github.io/minibox" />
-    <updated>2021-10-11T13:56:33+01:00</updated>
+    <updated>2021-10-11T14:49:47+01:00</updated>
     <author>
         <name>shmo</name>
     </author>
     <id>https://shmo.github.io/minibox</id>
 
+    <entry>
+        <title>Glazes</title>
+        <author>
+            <name>shmo</name>
+        </author>
+        <link href="https://shmo.github.io/minibox/glazing.html"/>
+        <id>https://shmo.github.io/minibox/glazing.html</id>
+
+        <updated>2021-10-11T14:49:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                    What's in the Box? Liquitex Glazing Medium A glaze is a paint medium that is translucent, which when applied, will allow underlying color to show through. Additionally, a glaze will act as a “filter” that changes the color and value appearance of the surface. In other words,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>What's in the Box?</h2>
+<p><a href="https://www.liquitex.com/row/products/professional/gessoes-mediums-varnishes/glazing-medium/" title="Liquitex Glazing Medium" target="_blank" rel="noopener">Liquitex Glazing Medium</a></p>
+<h2>General Info on Glazing Mediums</h2>
+<p><strong>A glaze is a paint medium that is <em>translucent</em>, which when applied, will allow underlying color to show through. </strong>Additionally, a glaze will act as a “filter” that changes the color and value appearance of the surface. In other words, glazes can change color saturation, hue, and tone.</p>
+<p><a href="http://www.leagueofpainters.com/?p=1143" title="Tutorial: Glazing " target="_blank" rel="noopener">Tutorial: Glazing</a></p>
+<p><a href="https://tangibleday.com/how-to-glaze-miniatures-tutorial-for-blending-color/" title="How to Glaze Miniatures " target="_blank" rel="noopener">How to Glaze Miniatures </a></p>
+<h2>Videos</h2>
+<p><a href="https://www.youtube.com/watch?v=dBYW3T5bs_s" title="Glazing explained in 5 minutes" target="_blank" rel="noopener">Glazing explained in 5 minutes</a></p>
+<p><a href="https://www.youtube.com/watch?v=4ePwy9qED28" title="How to Glaze" target="_blank" rel="noopener">How to Glaze</a></p>
+<p><a href="https://youtu.be/A13JfFJxtIg" title="How to Glaze Miniatures: A Beginner's Guide to Color Glazing" target="_blank" rel="noopener">https://youtu.be/A13JfFJxtIg</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Primers</title>
         <author>
@@ -17,20 +46,25 @@
         <link href="https://shmo.github.io/minibox/primers.html"/>
         <id>https://shmo.github.io/minibox/primers.html</id>
 
-        <updated>2021-10-11T13:56:33+01:00</updated>
+        <updated>2021-10-11T14:47:18+01:00</updated>
             <summary>
                 <![CDATA[
-                    Whats in the Box? Black Primer from AK interactive Grey Primer from AK interactive These are both good primers but there's lots of different sorts including spray can. Overview of Primers &amp; "Best" Primers
+                     Whats in the Box? Black Primer from AK interactive Grey Primer from AK interactive These are both good primers but there's lots of different sorts including spray can, paint on etc. Overview of Primers &amp; "Best" Primers The Complete Miniature Painter's Guide to Brush&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>Whats in the Box?</h2>
+                <hr>
+<h2>Whats in the Box?</h2>
 <p><a href="https://ak-interactive.com/product/black-primer-100ml/" title="Black Primer from AK interactive" target="_blank" rel="noopener noreferrer">Black Primer from AK interactive</a></p>
 <p><a href="https://ak-interactive.com/product/grey-primer-100ml/" target="_blank" rel="noopener noreferrer">Grey Primer from AK interactive</a></p>
-<p>These are both good primers but there's lots of different sorts including spray can.</p>
+<p>These are both good primers but there's lots of different sorts including spray can, paint on etc. </p>
 <h2>General Info on primers</h2>
 <p><a href="https://www.hayksaakian.com/best-primer-for-miniatures/" target="_blank" rel="noopener noreferrer">Overview of Primers &amp; "Best" Primers</a></p>
+<h2>Videos</h2>
+<p><a href="https://www.youtube.com/watch?v=qfYH77-0mZw" title="The Complete Miniature Painter's Guide to Brush On Primer" target="_blank" rel="noopener">The Complete Miniature Painter's Guide to Brush On Primer</a></p>
+<p><a href="https://www.youtube.com/watch?v=k1srek0pono" title="Priming your Miniature" target="_blank" rel="noopener">Priming your Miniature</a></p>
+<p><a href="https://www.youtube.com/watch?v=16Qx1LFF8io" title="How To Use Brush On Primer To Get A Smooth Finish : Brush Basics" target="_blank" rel="noopener">How To Use Brush On Primer To Get A Smooth Finish : Brush Basics</a></p>
             ]]>
         </content>
     </entry>
@@ -42,15 +76,16 @@
         <link href="https://shmo.github.io/minibox/mini-painting-box.html"/>
         <id>https://shmo.github.io/minibox/mini-painting-box.html</id>
 
-        <updated>2021-10-11T13:41:41+01:00</updated>
+        <updated>2021-10-11T13:59:10+01:00</updated>
             <summary>
                 <![CDATA[
-                    This is for mini-painting box. 
+                    This site is primarily for the owners of the posh handmade mini painting box gift. The site contains links to resources relating to items in the box, or related mini painting topics. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is for mini-painting box.</p>
+                <p>This site is primarily for the owners of the posh handmade mini painting box gift.</p>
+<p>The site contains links to resources relating to items in the box, or related mini painting topics.</p>
 
             ]]>
         </content>
