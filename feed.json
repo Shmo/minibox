@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://shmo.github.io/minibox/primers.html",
+            "url": "https://shmo.github.io/minibox/primers.html",
+            "title": "Primers",
+            "summary": "Whats in the Box? Black Primer from AK interactive Grey Primer from AK interactive These are both good primers but there's lots of different sorts including spray can. Overview of Primers &amp; \"Best\" Primers",
+            "content_html": "<h2>Whats in the Box?</h2>\n<p><a href=\"https://ak-interactive.com/product/black-primer-100ml/\" title=\"Black Primer from AK interactive\" target=\"_blank\" rel=\"noopener noreferrer\">Black Primer from AK interactive</a></p>\n<p><a href=\"https://ak-interactive.com/product/grey-primer-100ml/\" target=\"_blank\" rel=\"noopener noreferrer\">Grey Primer from AK interactive</a></p>\n<p>These are both good primers but there's lots of different sorts including spray can.</p>\n<h2>General Info on primers</h2>\n<p><a href=\"https://www.hayksaakian.com/best-primer-for-miniatures/\" target=\"_blank\" rel=\"noopener noreferrer\">Overview of Primers &amp; \"Best\" Primers</a></p>",
+            "author": {
+                "name": "shmo"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-11T13:56:33+01:00",
+            "date_modified": "2021-10-11T13:56:33+01:00"
+        },
+        {
             "id": "https://shmo.github.io/minibox/mini-painting-box.html",
             "url": "https://shmo.github.io/minibox/mini-painting-box.html",
             "title": "Mini-Painting Box",
