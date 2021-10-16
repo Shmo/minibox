@@ -3,12 +3,39 @@
     <title>My Mini Painting Box</title>
     <link href="https://shmo.github.io/minibox/feed.xml" rel="self" />
     <link href="https://shmo.github.io/minibox" />
-    <updated>2021-10-11T15:12:13+01:00</updated>
+    <updated>2021-10-16T10:06:07+01:00</updated>
     <author>
         <name>Pimkli</name>
     </author>
     <id>https://shmo.github.io/minibox</id>
 
+    <entry>
+        <title>Wet Palette</title>
+        <author>
+            <name>Pimkli</name>
+        </author>
+        <link href="https://shmo.github.io/minibox/wet-palette.html"/>
+        <id>https://shmo.github.io/minibox/wet-palette.html</id>
+
+        <updated>2021-10-16T10:06:07+01:00</updated>
+            <summary>
+                <![CDATA[
+                    What's in the Box? A DIY Wet Palette along with additional sponge and parchment paper. DIY Wet Palette Wet Palette - Hacks and tricks How to set up your wet Palette Wet Palette Tips 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>What's in the Box?</h2>
+<p>A DIY Wet Palette along with additional sponge and parchment paper.</p>
+<p><a href="https://www.fauxhammer.com/tutorials/how-to-make-a-wet-palette-for-painting-miniatures-models/" title="DIY Wet Palette" target="_blank" rel="noopener">DIY Wet Palette</a></p>
+<h2>General Info on Wet Palettes.</h2>
+<p><a href="https://www.youtube.com/watch?v=6cn7U5rBJUg&amp;t=2s" title="Wet Palette - Hacks and tricks" target="_blank" rel="noopener">Wet Palette - Hacks and tricks</a></p>
+<p><a href="https://www.redgrassgames.com/how-to-setup-your-wet-palette-for-miniature-painting/" title="How to set up your wet Palette" target="_blank" rel="noopener">How to set up your wet Palette</a></p>
+<p><a href="https://www.youtube.com/watch?v=Jwzych8IKq8" title="Wet Palette Tips" target="_blank" rel="noopener">Wet Palette Tips</a></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Inks/High-Flow Acrylics</title>
         <author>

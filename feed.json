@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://shmo.github.io/minibox/wet-palette.html",
+            "url": "https://shmo.github.io/minibox/wet-palette.html",
+            "title": "Wet Palette",
+            "summary": "What's in the Box? A DIY Wet Palette along with additional sponge and parchment paper. DIY Wet Palette Wet Palette - Hacks and tricks How to set up your wet Palette Wet Palette Tips ",
+            "content_html": "<h2>What's in the Box?</h2>\n<p>A DIY Wet Palette along with additional sponge and parchment paper.</p>\n<p><a href=\"https://www.fauxhammer.com/tutorials/how-to-make-a-wet-palette-for-painting-miniatures-models/\" title=\"DIY Wet Palette\" target=\"_blank\" rel=\"noopener\">DIY Wet Palette</a></p>\n<h2>General Info on Wet Palettes.</h2>\n<p><a href=\"https://www.youtube.com/watch?v=6cn7U5rBJUg&amp;t=2s\" title=\"Wet Palette - Hacks and tricks\" target=\"_blank\" rel=\"noopener\">Wet Palette - Hacks and tricks</a></p>\n<p><a href=\"https://www.redgrassgames.com/how-to-setup-your-wet-palette-for-miniature-painting/\" title=\"How to set up your wet Palette\" target=\"_blank\" rel=\"noopener\">How to set up your wet Palette</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=Jwzych8IKq8\" title=\"Wet Palette Tips\" target=\"_blank\" rel=\"noopener\">Wet Palette Tips</a></p>\n<p> </p>",
+            "author": {
+                "name": "Pimkli"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-16T10:01:21+01:00",
+            "date_modified": "2021-10-16T10:06:07+01:00"
+        },
+        {
             "id": "https://shmo.github.io/minibox/high-flow-acrylics.html",
             "url": "https://shmo.github.io/minibox/high-flow-acrylics.html",
             "title": "Inks/High-Flow Acrylics",
