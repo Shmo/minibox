@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://shmo.github.io/minibox/brushes.html",
+            "url": "https://shmo.github.io/minibox/brushes.html",
+            "title": "Brushes",
+            "summary": "What's in the Box? There are a bunch of (really really) cheap brushes in the box. They include 20 \"rounds\" size 1 (sizes vary across brands) and a bunch of \"make up\" brushes which are great for drybrushing (or make up - you do you).",
+            "content_html": "<h2>What's in the Box?</h2>\n<p>There are a bunch of (really really) cheap brushes in the box. They include 20 \"rounds\" size 1 (sizes vary across brands) and a bunch of \"make up\" brushes which are great for drybrushing (or make up - you do you).</p>\n<p>Brushes are <strong>Consumables</strong> they wear out (and these rounds will wear out super fast). You will still be able to use them for different things (stippling, effects etc.) </p>\n<p>Get some <a href=\"https://www.jacksonsart.com/da-vinci-professional-brush-soap\" title=\"brush soap\" target=\"_blank\" rel=\"noopener\">brush soap</a> and clean your brushes they will keep a point longer.</p>\n<h2>General Info about Brushes</h2>\n<p><a href=\"https://www.youtube.com/watch?v=Up-AzLfL59o\" title=\"What brushes do you need?\" target=\"_blank\" rel=\"noopener\">What brushes do you need?</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=_SJORV5kMJ0&amp;list=PLQybQSJNR3RXI4qG-weW4logDAtBSm5Gf&amp;index=15\" title=\"Best brush for mini painting and how to look after it\" target=\"_blank\" rel=\"noopener\">Best brush for mini painting and how to look after it</a></p>",
+            "author": {
+                "name": "Pimkli"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-16T10:58:40+01:00",
+            "date_modified": "2021-10-16T10:58:40+01:00"
+        },
+        {
             "id": "https://shmo.github.io/minibox/kimera-kolors.html",
             "url": "https://shmo.github.io/minibox/kimera-kolors.html",
             "title": "Kimera Kolors",
