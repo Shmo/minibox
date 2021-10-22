@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://shmo.github.io/minibox/oil-paints.html",
+            "url": "https://shmo.github.io/minibox/oil-paints.html",
+            "title": "Oil Paints",
+            "summary": "What's in the Box? Selection of Winton Oil Colours 3 AK Interactive wax based True Metallic Paints Odourless Mineral Spirit Cheap synthetic brushes of different shapes. ",
+            "content_html": "<h2>What's in the Box?</h2>\n<p><a href=\"https://www.winsornewton.com/uk/paint/oil/winton-oil/\" title=\"Selection of Winton Oil Colours\" target=\"_blank\" rel=\"noopener\">Selection of Winton Oil Colours</a></p>\n<p><a href=\"https://ak-interactive.com/product-category/paints/true-metal-paints/\" title=\"3 AK Interactive wax based True Metallic Paints\" target=\"_blank\" rel=\"noopener\">3 AK Interactive wax based True Metallic Paints</a></p>\n<p><a href=\"https://en.pebeo.com/catalogue/famille/oil-auxiliaries/650309\" title=\"Odourless Mineral Spirit\" target=\"_blank\" rel=\"noopener\">Odourless Mineral Spirit</a></p>\n<p>Cheap synthetic brushes of different shapes. </p>\n<p><img loading=\"lazy\" src=\"https://m.media-amazon.com/images/I/71nWK-+J+AL._AC_SL1200_.jpg\" data-is-external-image=\"true\" ></p>\n<p> </p>",
+            "author": {
+                "name": "Pimkli"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-22T12:21:19+01:00",
+            "date_modified": "2021-10-22T12:21:19+01:00"
+        },
+        {
             "id": "https://shmo.github.io/minibox/brushes.html",
             "url": "https://shmo.github.io/minibox/brushes.html",
             "title": "Brushes",
